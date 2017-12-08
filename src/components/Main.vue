@@ -72,7 +72,7 @@ export default {
         secondMenu: []
       }, {
         name: '网络商铺管理',
-        secondMenu: [{title: '商铺管理', path: '/main/shopList'}, {title: '商圈管理', path: '/main/mallList'}, {title: '订单列表', path: ''}, {title: '网络维权订单', path: ''}]
+        secondMenu: [{title: '商铺管理', path: '/main/shopList'}]
       }, {
         name: '你好',
         secondMenu: [{title: '密码', path: '/main/resetPsd'}, {title: '退出', path: '/'}]
