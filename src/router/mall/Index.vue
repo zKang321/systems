@@ -1,6 +1,6 @@
 <template>
 	<div class="mall">
-		<router-link class="button add" :to="{path: '/main/shopListDetail'}">
+		<router-link class="button add" :to="{path: '/main/mallEidit'}">
 			<i class="iconfont icon-xinzeng"></i>新建
 	    </router-link>
 		<h2>商圈管理</h2>
